@@ -16,10 +16,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global proxy networks and automated web data extraction market is estimated at approximately **$1.5B to $2.3B annually**, growing at a 14%–18% CAGR fueled by surging demand for AI model pre-training datasets and geolocation-aware scraping. The sector exhibits a **barbell market structure with moderate-to-high fragmentation**: while enterprise infrastructure is heavily concentrated among a few well-capitalized giants (notably Oxylabs and Bright Data, which capture significant enterprise spend), the remainder of the landscape remains highly fragmented with a long tail of niche residential providers, API wrappers, and regional resellers competing aggressively on price.
 
 ## SaaS/Hosted Platforms
 
