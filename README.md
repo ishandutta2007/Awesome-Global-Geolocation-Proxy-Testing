@@ -1,32 +1,48 @@
-# Awesome-Global-Geolocation-Proxy-Testing
-# Awesome-Global-Geolocation-Proxy-Testing
+# 🌐 Awesome Global Geolocation & Proxy Testing
 
-## Top Global Geolocation & Proxy Testing Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Global Geolocation & Proxy Testing Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on Geo-Targeted Proxies, IP Rotation & Self-Hosted Proxy Pools*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Global Geolocation & Proxy Testing**. These tools help teams simulate traffic from different countries and cities—covering everything from commercial residential proxy networks with hundreds of millions of IPs to open-source proxy rotators and self-hosted agent pools that give you full control over your exit IPs without per-GB fees.
+---
 
-**Examples** include Bright Data, Oxylabs, Decodo (formerly Smartproxy), Webshare, IPRoyal, NetNut, ScraperAPI, and open-source alternatives like Rota (the category leaders).
+## 📌 Top Global Geolocation & Proxy Testing Ecosystem
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted proxy rotation, open-source agent pools, and community-driven geolocation testing—ideal for teams seeking data sovereignty and avoiding per-GB residential proxy pricing that compounds with test volume. The open-source landscape is genuinely functional: **Rota** provides a high-performance self-hosted proxy rotator with health checks, multiple rotation strategies, and Docker deployment [citation:11].
+**A Curated List of Enterprise SaaS Platforms & Open-Source Tools for Web Scraping, Geo-Targeted Proxies, IP Rotation & Self-Hosted Proxy Pools**  
+*Focused on residential proxies, mobile proxies, datacenter IPs, reverse proxy rotation, anti-bot bypass & geolocation verification.*  
+📅 **Last updated: March 2026**
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+This repository serves as a comprehensive developer and QA guide to **Global Geolocation & Proxy Testing**. Modern web applications, ad networks, anti-fraud algorithms, and AI scraping pipelines heavily depend on geo-distributed IP infrastructure. Here you will find direct comparisons of market leaders (Bright Data, Oxylabs, Decodo, NetNut, ScraperAPI) along with high-performance open-source rotators (such as Rota, mubeng, proxy_pool) to manage cost predictability and achieve complete data sovereignty.
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⚠️ Disclaimer](#-disclaimer)
+- [⭐ Star History](#-star-history)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
 
 The global proxy networks and automated web data extraction market is estimated at approximately **$1.5B to $2.3B annually**, growing at a 14%–18% CAGR fueled by surging demand for AI model pre-training datasets and geolocation-aware scraping. The sector exhibits a **barbell market structure with moderate-to-high fragmentation**: while enterprise infrastructure is heavily concentrated among a few well-capitalized giants (notably Oxylabs and Bright Data, which capture significant enterprise spend), the remainder of the landscape remains highly fragmented with a long tail of niche residential providers, API wrappers, and regional resellers competing aggressively on price.
 
-## SaaS/Hosted Platforms
+---
+
+## 🏢 SaaS/Hosted Platforms
 
 | Product | Company Scale (Revenue / Valuation) | Description | Pricing (Starting) | Free Tier / Trial Limits |
 |---------|-------------------------------------|-------------|-------------------|--------------------------|
@@ -39,7 +55,9 @@ The global proxy networks and automated web data extraction market is estimated 
 | **[Webshare](https://webshare.io/)** | **~$3M–$5M Annual Revenue** (Est.) | **Best free option.** **10 free datacenter proxies + 1 GB/month forever**—never expire. Residential pool of 300M+ IPs [citation:5]. | Datacenter proxies from **$2.99/month** (100 proxies); rotating residential from **$3.50/month** (1GB bandwidth) | **Free forever plan**: 10 shared datacenter proxies with 1 GB/month bandwidth, no credit card required [citation:5] |
 | **[Rayobyte](https://rayobyte.com/)** | **~$1M–$3M Annual Revenue** (7-figure bootstrapped) | Rotating, shared, and dedicated datacenter proxies. Rotating proxies support US geo-targeting with 10–120 minute rotation intervals. Dedicated proxies support SOCKS [citation:9]. | Semi-dedicated datacenter proxies from **$1.00/proxy/month** (minimum 5 proxies = $5/month); residential pay-as-you-go from **$3.50/GB** [citation:9] | **Free Scraping API plan**: 5,000 free requests forever; **2-day money-back guarantee** on 5-proxy starter datacenter packages [citation:9] |
 
-## Open-Source GitHub Projects
+---
+
+## 🔓 Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
 |---------|------------|-------------|
@@ -52,18 +70,31 @@ The global proxy networks and automated web data extraction market is estimated 
 | **[rotating-proxy](https://github.com/mattes/rotating-proxy)** | [![Stars](https://img.shields.io/github/stars/mattes/rotating-proxy?style=social&color=white)](https://github.com/mattes/rotating-proxy/stargazers) | **Rotating TOR proxy in Docker with HAProxy load balancing.** Spins up multiple Tor circuit instances concurrently in isolated containers and rotates client exit nodes through a unified local SOCKS/HTTP port. |
 | **[Rota](https://github.com/alpkeskin/rota)** | [![Stars](https://img.shields.io/github/stars/alpkeskin/rota?style=social&color=white)](https://github.com/alpkeskin/rota/stargazers) | **High-performance self-hosted proxy rotation engine in Go.** Handles thousands of requests per second with four rotation strategies (random, round-robin, least-conn, time-based), live config watching, automatic health checking, and Docker support [citation:11]. |
 
-**Frameworks for building custom systems**: Combine open-source rotators like **Rota** or **mubeng** over free upstream proxies or **Webshare's free datacenter proxies** for a zero-cost testing setup—avoiding per-GB residential proxy fees when evaluating geo-targeted services.
+💡 **Frameworks for building custom systems**: Combine open-source rotators like **Rota** or **mubeng** over free upstream proxies or **Webshare's free datacenter proxies** for a zero-cost testing setup—avoiding per-GB residential proxy fees when evaluating geo-targeted services.
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🤝 How to Contribute
 
-Star the repo if you find it useful!
+1. 🍴 Fork the repo.
+2. 📝 Add or edit entries in `README.md` following the established table structure.
+3. 🔗 Include: name, official link, specific pricing starting tier, verified trial/free limits, company scale, and star badges.
+4. 🚀 Submit a PR with a concise description of your update.
 
-## Disclaimer
+---
+
+## 💖 Support
+
+If you find this curated directory useful for your geolocation testing, web crawling, or proxy infrastructure:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** updates, newly discovered tools, or pricing changes.
+- 📢 **Share with colleagues** and teams working on geolocation and proxy engineering.
+- ☕ **Support the maintainer**: If you'd like to sponsor the project or buy a coffee, visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Proxy testing tools route traffic through third-party IPs; **respect target site terms of service**, avoid scraping personal data, and ensure your use case complies with applicable laws. **Bright Data requires KYC for residential proxies**—no automatic path [citation:2].
@@ -71,14 +102,6 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for QA engineers, data collection teams, and developers building geolocation testing infrastructure.**  
-Let's make global geolocation and proxy testing more open, controllable, and cost-predictable.
-
 ## ⭐ Star History
 
-<a href="https://star-history.com/#ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing&Timeline" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Global-Geolocation-Proxy-Testing_growth.svg">
-    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Global-Geolocation-Proxy-Testing_growth.svg">
-  </picture>
-</a>
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing&type=date&legend=top-left)
