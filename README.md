@@ -67,3 +67,12 @@ Star the repo if you find it useful!
 
 **Made for QA engineers, data collection teams, and developers building geolocation testing infrastructure.**  
 Let's make global geolocation and proxy testing more open, controllable, and cost-predictable.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Global-Geolocation-Proxy-Testing&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Global-Geolocation-Proxy-Testing_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Global-Geolocation-Proxy-Testing_growth.svg">
+  </picture>
+</a>
